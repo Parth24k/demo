@@ -1,2 +1,3 @@
 # demo
-This is demo repository
+This is my demo repository
+Parthik Patel
